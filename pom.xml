@@ -4,6 +4,6 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.github.MovilidadEdatalia</groupId>
    <artifactId>signply-sdk-releases-android</artifactId>
-   <version>5.5.4</version>
-   <packaging>aar</packaging>
+   <version>5.5.5</version>
+   <packaging>jar</packaging>
 </project>
