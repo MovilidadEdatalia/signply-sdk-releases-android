@@ -2,8 +2,4 @@ jdk:
   - openjdk17
 
 install:
-  - mvn install:install-file \
-    -Dfile=SignplySDK-release.aar \
-    -DpomFile=pom.xml \
-    -Dpackaging=aar \
-    -DgeneratePom=false
+  - mvn install:install-file -Dfile=SignplySDK-release.aar -DpomFile=pom.xml -Dpackaging=aar -DgeneratePom=false
